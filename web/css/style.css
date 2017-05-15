@@ -595,3 +595,17 @@ nav#footer p{
 .update-container {
    margin-left: 58px;
 }
+
+@media (max-width : 1024px) {
+	.update-container {
+		margin-left: 0px;
+	}
+
+	.section-title hr{
+		margin-left: 0px;
+	}
+
+	.section-title h2 {
+		margin-left: 0px;
+	}
+}
