@@ -53,7 +53,13 @@ a:focus{
 	width: 60px;
 	float: left;
 	clear: both;
+   margin-left: 58px;
 }
+
+.section-title h2 {
+   margin-left: 58px;
+}
+
 .clearfix:after {
      visibility: hidden;
      display: block;
